@@ -1,1 +1,1 @@
-# sliceOfCollege
+# College Buddy
