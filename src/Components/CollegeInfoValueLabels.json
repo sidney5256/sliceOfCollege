@@ -1,0 +1,72 @@
+[
+ {
+   "FIELD1": "VariableName",
+   "FIELD2": "Value",
+   "FIELD3": "ValueLabel"
+ },
+ {
+   "FIELD1": "Level of institution (HD2016)",
+   "FIELD2": "1",
+   "FIELD3": "Four or more years"
+ },
+ {
+   "FIELD1": "Level of institution (HD2016)",
+   "FIELD2": "2",
+   "FIELD3": "At least 2 but less than 4 years"
+ },
+ {
+   "FIELD1": "Level of institution (HD2016)",
+   "FIELD2": "3",
+   "FIELD3": "Less than 2 years (below associate)"
+ },
+ {
+   "FIELD1": "Level of institution (HD2016)",
+   "FIELD2": "-3",
+   "FIELD3": "{Not available}"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "11",
+   "FIELD3": "Doctor's degree - research/scholarship and professional practice"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "12",
+   "FIELD3": "Doctor's degree - research/scholarship"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "13",
+   "FIELD3": "Doctor's degree -  professional practice"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "14",
+   "FIELD3": "Doctor's degree - other"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "20",
+   "FIELD3": "Master's degree"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "30",
+   "FIELD3": "Bachelor's degree"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "40",
+   "FIELD3": "Associate's degree"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "0",
+   "FIELD3": "Non-degree granting"
+ },
+ {
+   "FIELD1": "Highest degree offered (HD2016)",
+   "FIELD2": "-3",
+   "FIELD3": "{Not available}"
+ }
+]
